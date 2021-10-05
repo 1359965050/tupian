@@ -1,5 +1,5 @@
 <?php
-$filename = "https://wp.panbaidu.cn/xm/16258/20211005/615c3e3087746CLSUFFtupian.txt";
+$filename = "tupian.txt";
 if(!file_exists($filename)){
     die('文件不存在');
 }
